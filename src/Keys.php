@@ -5,7 +5,6 @@
  * Date: 1/21/2019
  * Time: 11:41 AM
  */
-
 namespace Encryption;
 
 use Encryption\EncryptionErrorHandler;
