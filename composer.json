@@ -1,0 +1,20 @@
+{
+    "name": "glanceded/php_encryption",
+    "description": "lib sodium based php encryption library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bogdan Serban",
+            "email": "glanceded@gmail.com"
+        }
+    ],
+    "require": {
+      "php": ">=7.2"
+    },
+    "autoload": {
+      "psr-7": {
+        "Glanceded\\Encryption\\": "src"
+      }
+    }
+}
